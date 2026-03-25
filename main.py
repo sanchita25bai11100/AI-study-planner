@@ -1,0 +1,1 @@
+This is the main file of the project. It connects all modules and provides a menu-based interface for the user to interact with the system. It handles user input and calls different functions like generating the study plan, updating it, evaluating answers, and starting focus mode.
