@@ -34,3 +34,11 @@ How to Run
 ```bash
 
 python main.py
+
+Project Structure
+
+- main.py – Main program file
+- planner.py – Study schedule generation logic
+- adaptive.py – Schedule updating logic
+- evaluator.py – Answer evaluation system
+- blocker.py – Focus mode system
