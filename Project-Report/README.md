@@ -1,0 +1,3 @@
+In modern academic environments, students often struggle with time management, consistency in study routines, and maintaining focus. Traditional study planning methods are static and do not adapt to the student's daily performance.
+Artificial Intelligence, even at a basic level, can be used to design systems that act as intelligent agents. These agents can perceive inputs, make decisions, and take actions to achieve specific goals.
+This project presents a simple AI-based system that acts as a study assistant agent, helping students plan their studies, adapt schedules, evaluate their work, and maintain focus.
